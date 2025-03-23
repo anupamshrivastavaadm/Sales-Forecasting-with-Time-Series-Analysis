@@ -15,6 +15,7 @@ Step 1: Install Required Libraries
 ![image](https://github.com/user-attachments/assets/ce353cd9-cddb-40eb-a8c2-8626602ca4a1)
 
 Step 2: Import Libraries
+
 ![image](https://github.com/user-attachments/assets/9b3bda8f-2b12-4e03-944b-8a71af106e0b)
 
 Step 3: Load and Prepare the Data
