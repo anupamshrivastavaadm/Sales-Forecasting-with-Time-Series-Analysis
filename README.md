@@ -28,4 +28,5 @@ Step 5: Fit the ARIMA Model: Identify the p, d, and q parameters using ACF and P
 ![image](https://github.com/user-attachments/assets/161743e3-685c-423e-8557-26c9298063a9)
 
 Step 6: Make Predictions
+
 ![image](https://github.com/user-attachments/assets/107f9ff3-c9f8-4a2b-830e-7eabfb116e40)
