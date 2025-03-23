@@ -1,9 +1,12 @@
 # Sales-Forecasting-with-Time-Series-Analysis
 Sales Forecasting with Time-Series Analysis
 
-Overview
+Overview:
+
 This repository contains a project on sales forecasting using Python, with a focus on time-series analysis. The forecasting model utilizes the ARIMA (AutoRegressive Integrated Moving Average) algorithm to predict future sales trends based on historical sales data. The project demonstrates techniques for handling time-series data, exploring stationarity, and implementing ARIMA for forecasting.
-Features
+
+Features:
+
 - Data loading and preparation from a structured source (e.g., CSV, DataFrame).
 - Stationarity analysis using rolling statistics and differencing techniques.
 - Implementation of ARIMA model for time-series forecasting.
